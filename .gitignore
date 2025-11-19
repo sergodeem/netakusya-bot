@@ -1,0 +1,18 @@
+# виртуальное окружение
+venv/
+
+# база данных
+bot.db
+
+# настройки с токеном
+.env
+
+# кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
